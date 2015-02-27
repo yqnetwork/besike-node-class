@@ -1,0 +1,19 @@
+{
+  "name": "Class",
+  "version": "0.0.0",
+  "description": "Implement CoffeeScript's Class System",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha verify -R spec"
+  },
+  "keywords": [
+    "implement",
+    "coffeescript"
+  ],
+  "author": "yq",
+  "license": "MIT",
+  "devDependencies": {
+    "chai": "^1.10.0",
+    "mocha": "^2.1.0"
+  }
+}
